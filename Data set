@@ -1,0 +1,72 @@
+. House Prices – Advanced Regression Techniques (Kaggle)
+Description: This comprehensive dataset includes 79 features detailing various aspects of residential homes in Ames, Iowa, such as square footage, number of bedrooms, and neighborhood information.
+
+Ideal For: Practicing feature engineering and experimenting with models like linear regression, random forests, and gradient boosting.
+
+Access: Kaggle Competition Page
+Kaggle
+Kaggle
++1
+ResearchGate
++1
+
+🏘️ 2. Housing Prices Dataset (Kaggle)
+Description: A simpler dataset focusing on factors like house area, number of bedrooms, furnishing status, and proximity to the main road.
+
+Ideal For: Beginners looking to understand the basics of regression analysis in real estate.
+
+Access: Kaggle Dataset Page
+Kaggle
+Wikipedia
++1
+Kaggle
++1
+
+🏙️ 3. Boston Housing Dataset
+Description: A classic dataset containing information on housing in Boston, including features like crime rate, average number of rooms, and property tax rate.
+
+Ideal For: Educational purposes and benchmarking regression models.
+
+Access: Kaggle Dataset Page
+
+🏠 4. Housing Prices Regression (Kaggle)
+Description: This dataset provides attributes of real estate properties such as square footage, number of bedrooms and bathrooms, number of floors, and the year the property was built.
+
+Ideal For: Practicing regression techniques with a focus on property attributes.
+
+Access: Kaggle Dataset Page
+Kaggle
+
+🏘️ 5. Simple Linear Regression: Monroe Township, NJ
+Description: A focused dataset containing 1,000 records of house areas and their corresponding prices in Monroe Township, New Jersey.
+
+Ideal For: Implementing and understanding simple linear regression models.
+
+Access: GitHub Repository
+GitHub
+YouTube
++7
+Wikipedia
++7
+GitHub
++7
+
+🔬 6. Volusia County, Florida Real Estate Dataset
+Description: A large dataset with over 62,000 records from 2015 to 2019, including detailed property and transaction information.
+
+Ideal For: Advanced modeling techniques and time-series analysis.
+
+Access: Research Paper
+arXiv
+Wikipedia
+
+📚 7. Toronto Real Estate Market Dataset
+Description: A dataset designed for lifelong property price prediction, incorporating spatial and temporal data from the Toronto real estate market.
+
+Ideal For: Exploring advanced models like Graph Convolutional Networks (GCNs) and Long Short-Term Memory (LSTM) networks.
+
+Access: Research Paper
+arXiv
++1
+Kaggle
++1
